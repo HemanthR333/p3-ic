@@ -1,0 +1,44 @@
+apple
+banana
+beetroot
+bell pepper
+butter
+cabbage
+capsicum
+carrot
+cauliflower
+cheese
+chilli pepper
+corn
+cottage cheese
+cream
+cucumber
+eggplant
+garlic
+ginger
+grapes
+ice cream
+jalepeno
+kefir
+kiwi
+lemon
+lettuce
+mango
+milk
+onion
+orange
+paprika
+pear
+peas
+pineapple
+pomegranate
+potato
+raddish
+sourcream
+soy beans
+spinach
+sweetcorn
+sweetpotato
+tomato
+turnip
+watermelon
